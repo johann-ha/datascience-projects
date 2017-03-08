@@ -1,0 +1,25 @@
+# Documentation Archive #
+#########################
+
+*.pdf
+
+# Packages #
+############
+
+*.zip
+
+# OS generated files #
+######################
+
+.DS_Store
+.DS_Stores
+._*
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# hidden directories #
+######################
+
+.*
+!/.gitignore
